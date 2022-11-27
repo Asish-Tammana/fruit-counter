@@ -1,0 +1,37 @@
+.bg-container {
+  background-color: #ffd569;
+  padding: 70px;
+  text-align: center;
+}
+
+.fruit-container {
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.fruit-count {
+  color: #ffd569;
+}
+
+.fruits-container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.fruit-img {
+  width: 60%;
+}
+
+.inc-btn {
+  color: #ffffff;
+  background-color: #007bff;
+  border-width: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 30px;
+  cursor: pointer;
+}
